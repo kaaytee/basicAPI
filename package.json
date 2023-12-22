@@ -1,0 +1,26 @@
+{
+  "name": "basicapi",
+  "version": "1.0.0",
+  "description": "A basic rest api built using node.js, express and typescript for the purpose of learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaaytee/basicAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaaytee/basicAPI/issues"
+  },
+  "homepage": "https://github.com/kaaytee/basicAPI#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
