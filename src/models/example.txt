@@ -1,0 +1,14 @@
+users {
+    userId: text
+    username: text 
+    password:
+    blogs: [blogId]
+}  
+
+blogs {
+    blogId:
+    userId:
+    title:
+    content:
+    labels:
+} 
